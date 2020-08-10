@@ -1,0 +1,11 @@
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\bin\Debug\netcoreapp2.1\AmbientacaoVisualStudio.deps.json
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\bin\Debug\netcoreapp2.1\AmbientacaoVisualStudio.runtimeconfig.json
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\bin\Debug\netcoreapp2.1\AmbientacaoVisualStudio.runtimeconfig.dev.json
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\bin\Debug\netcoreapp2.1\AmbientacaoVisualStudio.dll
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\bin\Debug\netcoreapp2.1\AmbientacaoVisualStudio.pdb
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\obj\Debug\netcoreapp2.1\AmbientacaoVisualStudio.csprojAssemblyReference.cache
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\obj\Debug\netcoreapp2.1\AmbientacaoVisualStudio.csproj.CoreCompileInputs.cache
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\obj\Debug\netcoreapp2.1\AmbientacaoVisualStudio.AssemblyInfoInputs.cache
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\obj\Debug\netcoreapp2.1\AmbientacaoVisualStudio.AssemblyInfo.cs
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\obj\Debug\netcoreapp2.1\AmbientacaoVisualStudio.dll
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\AmbientacaoVisualStudio\obj\Debug\netcoreapp2.1\AmbientacaoVisualStudio.pdb

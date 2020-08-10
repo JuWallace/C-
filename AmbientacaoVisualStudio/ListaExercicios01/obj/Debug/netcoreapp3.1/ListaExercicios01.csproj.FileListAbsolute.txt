@@ -1,0 +1,13 @@
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\bin\Debug\netcoreapp3.1\ListaExercicios01.exe
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\bin\Debug\netcoreapp3.1\ListaExercicios01.deps.json
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\bin\Debug\netcoreapp3.1\ListaExercicios01.runtimeconfig.json
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\bin\Debug\netcoreapp3.1\ListaExercicios01.runtimeconfig.dev.json
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\bin\Debug\netcoreapp3.1\ListaExercicios01.dll
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\bin\Debug\netcoreapp3.1\ListaExercicios01.pdb
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\obj\Debug\netcoreapp3.1\ListaExercicios01.csprojAssemblyReference.cache
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\obj\Debug\netcoreapp3.1\ListaExercicios01.AssemblyInfoInputs.cache
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\obj\Debug\netcoreapp3.1\ListaExercicios01.AssemblyInfo.cs
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\obj\Debug\netcoreapp3.1\ListaExercicios01.csproj.CoreCompileInputs.cache
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\obj\Debug\netcoreapp3.1\ListaExercicios01.dll
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\obj\Debug\netcoreapp3.1\ListaExercicios01.pdb
+D:\BKP_PEN_FACUL\repos\AmbientacaoVisualStudio\ListaExercicios01\obj\Debug\netcoreapp3.1\ListaExercicios01.genruntimeconfig.cache

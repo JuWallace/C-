@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GerReservQuartos
+namespace GerReservQuartos.view
 {
-    class Cadastro
+    class MenuPrinc
     {
-        public static void ExeCadastro()
+        public static void ExecMenuPrinc()
         {
             int opcao;
             do
@@ -15,27 +15,24 @@ namespace GerReservQuartos
                 Console.WriteLine("\t========================================\t");
                 Console.WriteLine("\t| SISTEMA DE GERENCIAMENTO DE RESERVAS |\t");
                 Console.WriteLine("\t========================================\t");
-                Console.WriteLine("\t============= Cadastros ================\t");
                 Console.WriteLine();
 
-                Console.WriteLine("1 - Cadastrar Cliente");
-                Console.WriteLine("2 - Cadastrar Funcionário");
-                Console.WriteLine("3 - Cadastrar Quarto");
+                Console.WriteLine("1 - Cadastros");
+                Console.WriteLine("2 - Listar Funcionários");
+                Console.WriteLine("3 - ##");
 
-                Console.WriteLine("0 - Menu Principal");
+                Console.WriteLine("0 - Sair");
                 Console.WriteLine("\nEscolha uma opção:");
                 opcao = Convert.ToInt32(Console.ReadLine());
 
                 switch (opcao)
                 {
                     case 1:
-                    //Exercicio01 ex = new Exercicio01();
-                    //ex.Executar();
-                    //Exercicio01.Exec01();
-                    //break;
-                    //case 2:
-                    //    Exercicio02.Exec02();
-                    //    break;
+                        Cadastro.ExeCadastro();
+                        break;
+                    case 2:
+                        view.ListFuncionarios.ExecListarFuncionarios();
+                        break;
                     //case 3:
                     //    Exercicio03.Exec03();
                     //    break;
@@ -69,7 +66,7 @@ namespace GerReservQuartos
                     //    break;
                     case 0:
                         Console.Clear();
-                        Console.WriteLine("Menu Principal!");
+                        Console.WriteLine("Saindo...");
                         break;
 
                     default:
@@ -77,14 +74,10 @@ namespace GerReservQuartos
                         Console.WriteLine("Opção inválida");
                         break;
                 }
-                if(opcao == 0)
-                {
-                    Console.WriteLine();
-                }
-                //Console.WriteLine("\nAperte uma tecla para continuar...");
+                Console.WriteLine("\nVolte sempre, aperte uma tecla para continuar...");
                 Console.ReadKey();
             } while (opcao != 0);
-
         }
+
     }
 }

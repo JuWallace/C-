@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BKP_PEN_FACUL\\repos\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio.csproj",
+      "projectUniqueName": "D:\\Repos_GitHub\\CSharp\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio.csproj",
       "projectName": "AmbientacaoVisualStudio",
-      "projectPath": "D:\\BKP_PEN_FACUL\\repos\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio.csproj",
+      "projectPath": "D:\\Repos_GitHub\\CSharp\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio.csproj",
       "packagesPath": "C:\\Users\\Wallace\\.nuget\\packages\\",
-      "outputPath": "D:\\BKP_PEN_FACUL\\repos\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio\\obj\\",
+      "outputPath": "D:\\Repos_GitHub\\CSharp\\AmbientacaoVisualStudio\\AmbientacaoVisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -745,7 +745,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
